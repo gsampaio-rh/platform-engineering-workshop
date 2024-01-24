@@ -6,7 +6,8 @@
 
 - **`/changelogs`**: Contém registros de mudanças feitas no projeto, incluindo backlog e notas de lançamento.
 - **`/docs`**: Diretório principal com toda a documentação do workshop, estruturada da seguinte forma:
-  - **0_Platform**: Introdução à plataforma e às tecnologias utilizadas no workshop.
+  - **1_PlatformEngineering**:
+  - 
   - **`_sidebar.md`**: Contém a barra lateral de navegação do site da documentação.
   - **`index.html`**: O arquivo HTML principal para o site de documentação Docsify.
 - **`/docs/desafios`**: Diretórios de desafios que fornecem detalhes sobre os desafios específicos enfrentados durante o workshop.

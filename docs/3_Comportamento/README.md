@@ -19,7 +19,7 @@ O eixo horizontal do CVF ilustra a orientação organizacional entre um foco int
 - **Foco Interno e Orientado à Pessoa**: Cultura de colaboração, coesão interna, e desenvolvimento do capital humano.
 - **Foco Externo e Orientado à Organização**: Cultura de competitividade, orientação para resultados e inovação de mercado.
 
-![Competing Values Framework](../images/1_D3AMtbW6Fftb4JshK0xG4A.jpeg)
+![Competing Values Framework](../images/cvfmatrix.jpeg)
 
 *(Fonte: [The competing values framework & Culture Contract [Quinn & NOBL]](https://orghacking.com/the-competing-values-framework-culture-contract-quinn-nobl-7d1471c2cbe9))*
 

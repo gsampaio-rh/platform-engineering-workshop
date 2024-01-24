@@ -4,8 +4,12 @@
 
 
 ## Visão Geral dos Módulos
-- **0_Platform**: 
-- 
+1. **Platform Engineering**: 
+2. **Core & Context**:
+3. **Comportamento**:
+4. **Prioridades**:
+5. **Storytelling**:
+
 ## Como Utilizar Esta Documentação
 Esta documentação é uma fonte abrangente de conhecimento para cada módulo do workshop. Navegue pelos diferentes tópicos usando a barra lateral para explorar cada módulo em detalhes.
 
