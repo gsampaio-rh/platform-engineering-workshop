@@ -12,7 +12,7 @@
 - **`/docs/desafios`**: Diretórios de desafios que fornecem detalhes sobre os desafios específicos enfrentados durante o workshop.
 - **`/docs/images`**: Contém imagens, diagramas e outros recursos visuais relevantes para a documentação e desafios.
 
-Os módulos do workshop Firefighters SRE são criados usando o **Docsify**. Escreva a documentação em Markdown e use o CLI do Docsify para servi-los. Armazene a documentação de cada módulo no diretório `docs/<numero-do-modulo>`.
+Os módulos do workshop Platform Engineering são criados usando o **Docsify**. Escreva a documentação em Markdown e use o CLI do Docsify para servi-los. Armazene a documentação de cada módulo no diretório `docs/<numero-do-modulo>`.
 
 ## 📘 O que é o Docsify?
 Docsify é uma ferramenta leve para gerar sites de documentação diretamente de arquivos markdown. Diferentemente de alguns outros geradores de sites estáticos, o Docsify não requer que você compile o markdown em HTML com antecedência. Em vez disso, ele gera dinamicamente o conteúdo do site quando a página é carregada, tornando-o bastante ágil. Com uma variedade de plugins e temas disponíveis, o Docsify oferece uma maneira flexível e fácil de criar documentação interativa e amigável.
