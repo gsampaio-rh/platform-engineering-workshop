@@ -19,6 +19,10 @@ O eixo horizontal do CVF ilustra a orientação organizacional entre um foco int
 - **Foco Interno e Orientado à Pessoa**: Cultura de colaboração, coesão interna, e desenvolvimento do capital humano.
 - **Foco Externo e Orientado à Organização**: Cultura de competitividade, orientação para resultados e inovação de mercado.
 
+![Competing Values Framework](../images/1_D3AMtbW6Fftb4JshK0xG4A.jpeg)
+
+*(Fonte: [The competing values framework & Culture Contract [Quinn & NOBL]](https://orghacking.com/the-competing-values-framework-culture-contract-quinn-nobl-7d1471c2cbe9))*
+
 ## Quadrantes do CVF
 
 ### 1. Quadrante da Colaboração (Clã)
@@ -64,6 +68,10 @@ Este quadrante descreve organizações orientadas para resultados, competitivida
 # BJ Fogg Behavior Model
 
 O BJ Fogg Behavior Model é um modelo conceitual desenvolvido por BJ Fogg, que explica como os comportamentos humanos são influenciados por três elementos principais: motivação, capacidade e gatilhos. Este modelo é fundamental para compreender e desenvolver estratégias eficazes para mudanças de comportamento em diversos contextos. O modelo é amplamente aplicado em diversas áreas, incluindo design de produtos, marketing, saúde e desenvolvimento pessoal.
+
+![Fogg Behavior Model](../images/fogg-behavior-model.jpeg)
+
+*(Fonte: [Fogg Behavior Model](https://behaviormodel.org/))*
 
 ## Elementos do Modelo
 
