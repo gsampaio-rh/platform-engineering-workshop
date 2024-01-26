@@ -52,4 +52,3 @@ Para se preparar para esta atividade, os participantes devem revisar os processo
 
 ## Resultado Esperado:
 O resultado esperado desta atividade é uma compreensão mais profunda de como os processos de desenvolvimento de software se alinham com os objetivos estratégicos da organização e impactam a produtividade dos desenvolvedores. Os participantes aprenderão a identificar quais processos são vitais para impulsionar a inovação e eficiência, e quais processos, embora necessários, podem não contribuir diretamente para a vantagem competitiva da empresa. Isso permitirá uma alocação de recursos mais eficaz e uma melhor tomada de decisão estratégica.
-

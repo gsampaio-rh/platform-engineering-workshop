@@ -72,3 +72,6 @@ Com base no feedback do teste beta, a equipe fez os ajustes finais. Isso incluiu
 Finalmente, chegou o grande dia do lançamento. A nova funcionalidade foi implementada para todos os usuários. A equipe de operações monitorou os servidores de perto, garantindo que tudo funcionasse sem problemas. Enquanto isso, a equipe de análise de dados começou a rastrear como a funcionalidade estava sendo usada, coletando dados para futuras melhorias.
 
 Mesmo após o lançamento, a jornada não acabou. A equipe continuou a monitorar o uso, coletar feedback e trabalhar em melhorias. A funcionalidade de playlists personalizadas não era apenas um projeto concluído, mas uma evolução contínua, sempre buscando oferecer a melhor experiência possível ao usuário.
+
+## Links Úteis
+- [Value Stream Mapping - Open Practice Library](https://openpracticelibrary.com/practice/vsm-and-mbpm/)

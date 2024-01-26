@@ -154,7 +154,7 @@ Cada ferramenta oferece uma perspectiva única e complementar, ajudando as organ
 
 ## Links Úteis
 
-- [Diagnosing and Changing Organizational Culture: Based on the Competing Values Framework / Kim S. Cameron, Robert E. Quinn]()
+- [Diagnosing and Changing Organizational Culture: Based on the Competing Values Framework / Kim S. Cameron, Robert E. Quinn](https://www.researchgate.net/profile/Tahani-Aldahdouh-2/post/Is-the-any-test-or-questionnaire-to-measure-the-organizational-climate-anyone-can-suggest/attachment/59d61f45c49f478072e97966/AS%3A271750183489537%401441801700739/download/Diagnosing+and+changing+organizational+culture+Based+on+the+competing+values+framework.pdf)
 - [Competing Values Framework - ToolsHero](https://www.toolshero.com/leadership/competing-values-framework/)
 - [O Modelo de Cultura Compete Values Framework - Persora](https://persora.com.br/2021/02/o-modelo-de-cultura-compete-values-framework/)
 - [The Competing Values Framework: Culture Contract - OrgHacking](https://orghacking.com/the-competing-values-framework-culture-contract-quinn-nobl-7d1471c2cbe9)

@@ -98,3 +98,7 @@ Enfrente o desafio de transformar a maneira como diferentes squads adotam Platfo
 - Os participantes deverão sair da atividade com planos estratégicos concretos e personalizados para a adoção de Platform Engineering em diferentes tipos de squads.
 - Espera-se que as estratégias desenvolvidas sejam alinhadas com os valores e a cultura de cada squad, garantindo uma maior probabilidade de sucesso na implementação.
 - A atividade deve promover uma compreensão mais aprofundada do comportamento humano e de como fatores de motivação, capacidade e gatilhos podem ser utilizados para influenciar mudanças positivas em ambientes de tecnologia.
+
+## Links Úteis
+- [Affinity Mapping - Open Practice Library](https://openpracticelibrary.com/practice/affinity-mapping/)
+- [How Might We _____ ?](https://openpracticelibrary.com/practice/hmw/)

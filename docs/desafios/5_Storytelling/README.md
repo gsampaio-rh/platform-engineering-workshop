@@ -41,3 +41,10 @@ Os grupos devem pesquisar e preparar argumentos persuasivos, enquanto os 'execut
 
 ## Resultado Esperado:
 Ao final da atividade, os participantes terão experienciado tanto o papel de persuadir um executivo quanto o de avaliar uma proposta de mudança organizacional. Esta experiência visa desenvolver habilidades de comunicação, adaptação e compreensão das diferentes perspectivas no ambiente corporativo.
+
+## Links Úteis
+- [Showcase](https://openpracticelibrary.com/practice/showcase/)
+- [10-for-10](https://openpracticelibrary.com/practice/10-for-10/)
+- [6 Dimensions of Discovery](https://openpracticelibrary.com/practice/6-dimensions-of-discovery/)
+- [Stakeholder Map](https://openpracticelibrary.com/practice/stakeholder-map/)
+- [Stakeholders Interview](https://openpracticelibrary.com/practice/stakeholders-interview/)
