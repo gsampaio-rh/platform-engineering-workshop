@@ -1,4 +1,4 @@
-# Value Stream Mapping na Entrega de Aplicações com ISO/IEC 12207: Guia da Atividade
+# Value Stream Mapping na Entrega de Aplicações: Guia da Atividade
 
 > 1. **Desafio**: Nesta atividade, os participantes serão desafiados a organizar os processos da ISO/IEC 12207 em ordem. O foco é entender cada etapa do desenvolvimento de software e organizar essas etapas de forma lógica e eficiente.
 > 
