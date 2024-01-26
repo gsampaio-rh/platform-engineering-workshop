@@ -1,17 +1,21 @@
-# Platform Engineering Workshop docs
+# Platform Engineering Workshop
+Este repositório serve como o centro de documentação e recursos para o workshop de Platform Engineering, uma experiência abrangente e interativa destinada a explorar as profundezas e amplitudes da engenharia de plataforma em ambientes de TI modernos. Com um foco prático e aplicado, este workshop guia os participantes através de conceitos essenciais e práticas avançadas de Platform Engineering, destacando como essas estratégias podem ser implementadas para otimizar a entrega de software e melhorar a produtividade do desenvolvedor.
 
-
+Cada componente do workshop foi cuidadosamente desenhado para não apenas transmitir conhecimento, mas também para incutir habilidades práticas e pensamento crítico, permitindo que os participantes apliquem o que aprenderam em seus próprios contextos de trabalho. Os facilitadores e participantes são encorajados a usar este repositório como um recurso vivo e dinâmico, contribuindo com suas próprias ideias e feedback para enriquecer ainda mais a experiência de aprendizado coletiva.
 
 ## 📁 Estrutura do Repositório
 
-- **`/changelogs`**: Contém registros de mudanças feitas no projeto, incluindo backlog e notas de lançamento.
-- **`/docs`**: Diretório principal com toda a documentação do workshop, estruturada da seguinte forma:
-  - **1_PlatformEngineering**:
-  - 
-  - **`_sidebar.md`**: Contém a barra lateral de navegação do site da documentação.
-  - **`index.html`**: O arquivo HTML principal para o site de documentação Docsify.
-- **`/docs/desafios`**: Diretórios de desafios que fornecem detalhes sobre os desafios específicos enfrentados durante o workshop.
-- **`/docs/images`**: Contém imagens, diagramas e outros recursos visuais relevantes para a documentação e desafios.
+- **`/docs`**: Diretório principal com toda a documentação do workshop.
+  - **`1_PlatformEngineering`**: Documentação relacionada ao módulo de Engenharia de Plataforma.
+  - **`2_DeveloperProductivityEngineering`**: Documentação sobre Engenharia de Produtividade do Desenvolvedor.
+  - **`3_Comportamento`**: Materiais sobre comportamento organizacional e mudança.
+  - **`/desafios`**: Detalhes sobre os desafios específicos enfrentados durante o workshop.
+  - **`/images`**: Recursos visuais para complementar a documentação e desafios.
+  - **`_sidebar.md`**: Barra lateral de navegação para a documentação.
+  - **`index.html`**: Arquivo HTML para visualização da documentação via Docsify.
+  - **`README.md`**: Informações gerais e orientações para cada seção.
+
+- **`/changelogs`**: Registros de alterações feitas no projeto, incluindo backlog e notas de lançamento.
 
 Os módulos do workshop Platform Engineering são criados usando o **Docsify**. Escreva a documentação em Markdown e use o CLI do Docsify para servi-los. Armazene a documentação de cada módulo no diretório `docs/<numero-do-modulo>`.
 
