@@ -26,7 +26,7 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 4. **Análise Crítica**: Identificar pontos de melhoria, gargalos ou ineficiências no fluxo de valor mapeado.
 5. **Proposta de Melhorias**: Sugerir melhorias baseadas na análise crítica do fluxo de valor.
 
-#### Processos Técnicos, de Implementação de Software e de Suporte ao Software (Baseado na ISO/IEC 12207):
+## Processos Técnicos, de Implementação de Software e de Suporte ao Software (Baseado na ISO/IEC 12207):
 
 1. **Definição de Requisitos dos Stakeholders**: Define as necessidades dos stakeholders para criar requisitos que o software deve atender.
 2. **Revisão de Software**: Avalia o software em diferentes estágios de seu desenvolvimento para garantir a conformidade com os requisitos.
