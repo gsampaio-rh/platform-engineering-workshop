@@ -61,7 +61,7 @@ Enfrente o desafio de transformar a maneira como diferentes squads adotam Platfo
 
 ## Estratégias Baseadas no Modelo BJ Fogg
 
-![Fogg Behavior Model](../images/fogg-behavior-model.jpeg)
+![Fogg Behavior Model](../../images/fogg-behavior-model.jpeg)
 
 *(Fonte: [Fogg Behavior Model](https://behaviormodel.org/))*
 
