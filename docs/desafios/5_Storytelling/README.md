@@ -31,13 +31,12 @@ Este exercício simula uma situação real de apresentação a um executivo, ond
    - **Descrição**: Este executivo prioriza relacionamentos e coesão de equipe. É sensível ao impacto das mudanças na cultura e no bem-estar dos funcionários.
    - **Dicas para Apresentadores**: Enfoque em como a Platform Engineering pode melhorar a colaboração interdepartamental e contribuir para um ambiente de trabalho positivo. Destaque o suporte e os recursos disponíveis para a transição.
 
-### Dinâmica do Grupo:
+## Dinâmica do Grupo:
 - Cada grupo divide-se em 'executivos' e 'apresentadores'.
 - Os 'executivos' devem avaliar a eficácia da apresentação com base no alinhamento com seu perfil.
 - Os 'apresentadores' devem se adaptar às reações e perguntas dos 'executivos' durante a apresentação.
 
 ## Preparação e Apresentação:
-
 Os grupos devem pesquisar e preparar argumentos persuasivos, enquanto os 'executivos' devem se familiarizar com os atributos de seu perfil para uma interação realista. As apresentações devem ser adaptativas, respondendo às necessidades e reações do 'executivo'.
 
 ## Resultado Esperado:

@@ -6,10 +6,6 @@
 > 
 > 3. **Objetivo Principal**: Utilizar a ISO/IEC 12207 para visualizar e entender o fluxo de valor no desenvolvimento de software, identificar ineficiências e propor melhorias.
 
-![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
-
-*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
-
 ## 🚀 Desafio
 Os participantes devem usar suas habilidades de análise para organizar os processos de ciclo de vida de software conforme descritos na ISO/IEC 12207, criando um mapa do fluxo de valor eficiente.
 
@@ -17,6 +13,9 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 > - Familiarizar-se com os processos listados na ISO/IEC 12207.
 > - Organizar esses processos em uma sequência lógica que represente eficientemente o ciclo de vida do desenvolvimento de software.
 > - Identificar gargalos e oportunidades de melhoria no processo proposto.
+
+![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
+*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
 
 ### Passos para a Atividade:
 
@@ -39,7 +38,7 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 9.  **Construção de Software**: Constrói o software, transformando seu design em código executável.
 10. **Implantação de Software**: Envolve a distribuição, instalação e implementação do software no ambiente do usuário.
 
-### Dinâmica do Grupo:
+## Dinâmica do Grupo:
 - Cada grupo receberá as descrições dos processos.
 - Os grupos discutirão e organizarão os processos em uma sequência lógica.
 - Cada grupo apresentará sua proposta de organização dos processos e discutirá suas descobertas.

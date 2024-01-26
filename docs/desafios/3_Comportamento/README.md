@@ -78,3 +78,19 @@ Enfrente o desafio de transformar a maneira como diferentes squads adotam Platfo
 - **Faísca como Gatilho**: Destinado a motivar o comportamento quando a motivação é baixa. Para Platform Engineering, isso pode envolver destacar os benefícios imediatos ou de longo prazo da adoção das práticas.
 - **Facilitador como Gatilho**: Usado quando a motivação é alta, mas a capacidade é baixa. Em Platform Engineering, pode incluir a simplificação de processos ou a oferta de suporte e recursos adicionais.
 - **Sinal como Gatilho**: Serve como lembrete para realizar uma ação quando tanto a motivação quanto a capacidade são altas. No contexto de Platform Engineering, isso pode ser um prompt ou lembrete para usar uma nova ferramenta ou seguir um processo recém-integrado.
+
+## Dinâmica do Grupo:
+- Inicialmente, cada grupo irá mergulhar nos detalhes dos perfis dos squads para compreender profundamente suas características e necessidades.
+- Em seguida, os grupos utilizarão o Modelo BJ Fogg para identificar elementos de motivação, capacidade e gatilhos relevantes para cada squad, e como estes podem ser aplicados para facilitar a adoção de Platform Engineering.
+- Cada grupo irá debater e definir estratégias específicas para cada squad, considerando os aspectos únicos de sua cultura e operação.
+- Por fim, os grupos apresentarão seus planos estratégicos e discutirão como suas propostas podem ser implementadas de maneira prática e sustentável.
+
+## Preparação e Análise:
+- Os participantes devem revisar os conceitos fundamentais de Platform Engineering e familiarizar-se com o Modelo BJ Fogg antes da atividade.
+- É importante que os participantes compreendam os princípios dos quadrantes do Modelo de Valores Conflitantes (CVF) e como estes se aplicam aos diferentes estilos de squads.
+- Os facilitadores podem fornecer materiais de leitura ou realizar uma sessão informativa para assegurar que todos os participantes estejam no mesmo nível de entendimento sobre os conceitos envolvidos.
+
+## Resultado Esperado:
+- Os participantes deverão sair da atividade com planos estratégicos concretos e personalizados para a adoção de Platform Engineering em diferentes tipos de squads.
+- Espera-se que as estratégias desenvolvidas sejam alinhadas com os valores e a cultura de cada squad, garantindo uma maior probabilidade de sucesso na implementação.
+- A atividade deve promover uma compreensão mais aprofundada do comportamento humano e de como fatores de motivação, capacidade e gatilhos podem ser utilizados para influenciar mudanças positivas em ambientes de tecnologia.
