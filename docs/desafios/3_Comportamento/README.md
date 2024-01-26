@@ -61,6 +61,10 @@ Enfrente o desafio de transformar a maneira como diferentes squads adotam Platfo
 
 ## Estratégias Baseadas no Modelo BJ Fogg
 
+![Fogg Behavior Model](../images/fogg-behavior-model.jpeg)
+
+*(Fonte: [Fogg Behavior Model](https://behaviormodel.org/))*
+
 ### Motivação:
 - **Prazer vs. Dor**: Esta estratégia explora a tendência humana de buscar experiências gratificantes e evitar desconforto. No contexto de Platform Engineering, 'Prazer' pode ser associado com a satisfação de melhorar processos de trabalho, enquanto 'Dor' pode ser relacionada aos desafios e ineficiências que a não adoção pode trazer.
 - **Esperança vs. Medo**: Baseia-se na motivação que vem da esperança de alcançar resultados positivos ou do medo de consequências negativas. Em Platform Engineering, 'Esperança' pode se referir ao potencial de crescimento na carreira e avanços tecnológicos, enquanto 'Medo' pode ser o receio de ficar para trás em inovação e eficiência.

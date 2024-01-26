@@ -23,12 +23,14 @@ O SPACE Framework é um conjunto de dimensões usado para compreender a produtiv
 - **Efficiency and Flow**: A capacidade de trabalhar de forma eficiente e no estado de "flow".
 
 ![Métricas do SPACE Framework](../../images/space_framework.jpeg)
+
 *(Fonte: [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124))*
 
 ## O que é a Matriz Core/Context?
 A matriz "Core/Context" de Geoffrey Moore é um modelo que ajuda as empresas a identificar suas atividades principais que são fundamentais para seu sucesso (Core) e aquelas que, embora necessárias, não oferecem vantagem competitiva direta (Context). Além disso, a matriz distingue entre atividades críticas e não críticas para o negócio.
 
 ![Core-Context Matrix](../../images/core-context.png)
+
 *(Fonte: [Geoffrey Moore-Core and Context](https://www.youtube.com/watch?v=emQ2innvuPo))*
 
 ## Aplicação da Matriz e do SPACE Framework

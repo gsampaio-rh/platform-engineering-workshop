@@ -15,6 +15,7 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 > - Identificar gargalos e oportunidades de melhoria no processo proposto.
 
 ![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
+
 *(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
 
 ### Passos para a Atividade:
