@@ -1,30 +1,58 @@
-# Value Stream Mapping na Entrega de Aplicações: Guia da Atividade
+# Value Stream Mapping na Entrega de Aplicações com ISO/IEC 12207: Guia da Atividade
 
-> 1. **Desafio Corporativo**: Nesta atividade, os participantes serão desafiados a analisar e mapear o processo de entrega de uma nova funcionalidade em uma empresa de tecnologia. O desafio é entender cada etapa do processo, desde a concepção até a entrega final ao cliente.
+> 1. **Desafio**: Nesta atividade, os participantes serão desafiados a organizar os processos da ISO/IEC 12207 em ordem. O foco é entender cada etapa do desenvolvimento de software e organizar essas etapas de forma lógica e eficiente.
 > 
-> 2. **História Detalhada**: Será fornecida uma narrativa detalhada que descreve o processo de entrega de uma funcionalidade, incluindo todos os passos e interações entre diferentes equipes e departamentos.
+> 2. **ISO/IEC 12207**: Esta norma internacional fornece um conjunto abrangente de processos de ciclo de vida para software. Os participantes deverão se familiarizar com os processos e suas categorias para realizar a atividade.
 > 
-> 3. **Objetivo Principal**: Utilizar a técnica de Value Stream Mapping para visualizar e entender o fluxo de valor do processo, identificar ineficiências e propor melhorias.
+> 3. **Objetivo Principal**: Utilizar a ISO/IEC 12207 para visualizar e entender o fluxo de valor no desenvolvimento de software, identificar ineficiências e propor melhorias.
+
+![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
+
+*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
 
 ## 🚀 Desafio
-Este exercício envolve a análise crítica de um processo complexo de entrega de software. Os participantes devem usar suas habilidades de observação e análise para desmembrar a narrativa em etapas distintas do processo e criar um mapa do fluxo de valor.
+Os participantes devem usar suas habilidades de análise para organizar os processos de ciclo de vida de software conforme descritos na ISO/IEC 12207, criando um mapa do fluxo de valor eficiente.
 
 > **Sua missão é**:
-> - Extrair as etapas-chave do processo a partir do roteiro fornecido.
-> - Mapear estas etapas num Value Stream Map, identificando tempo de processamento, tempo de espera e qualquer outra métrica relevante.
-> - Identificar gargalos, desperdícios e oportunidades de melhoria no processo.
+> - Familiarizar-se com os processos listados na ISO/IEC 12207.
+> - Organizar esses processos em uma sequência lógica que represente eficientemente o ciclo de vida do desenvolvimento de software.
+> - Identificar gargalos e oportunidades de melhoria no processo proposto.
 
-### Passos para Criar um Value Stream Map:
+### Passos para a Atividade:
 
-1. **Identificar o Produto ou Serviço**: Defina claramente o produto ou serviço que está sendo mapeado (neste caso, a entrega de uma funcionalidade de software).
-2. **Definir o Início e o Fim do Processo**: Determine onde o processo começa e onde termina.
-3. **Mapear as Etapas do Processo**: Utilizando a história detalhada, identifique todas as etapas envolvidas no processo desde a concepção até a entrega final. Desenhe estas etapas sequencialmente.
-4. **Coletar Dados para Cada Etapa**: Para cada etapa identificada, colete informações relevantes, como tempo de processamento, tempo de espera, número de pessoas envolvidas e quaisquer outras métricas pertinentes.
-5. **Identificar e Marcar Desperdícios**: Procure por atividades que não adicionam valor ao produto ou serviço, como esperas longas, retrabalhos ou etapas desnecessárias.
-6. **Analisar o Fluxo de Informações**: Além do fluxo de trabalho, observe como as informações se movem através do processo. Isso inclui ordens de serviço, feedbacks e comunicações.
-7. **Calcular o Lead Time Total**: Some todos os tempos de processamento e de espera para calcular o lead time total do processo.
-8. **Identificar Gargalos**: Procure por etapas onde o processo é retardado, indicando um gargalo.
-9. **Propor Melhorias**: Com base na análise do mapa, proponha mudanças para eliminar desperdícios, reduzir o lead time e resolver gargalos.
+1. **Estudo da ISO/IEC 12207**: Entender a estrutura e os processos descritos na norma.
+2. **Organização dos Processos**: Colocar os processos em uma ordem que faça sentido para o ciclo de vida do desenvolvimento de software.
+3. **Mapeamento do Fluxo de Valor**: Utilizar os processos organizados para criar um mapa do fluxo de valor.
+4. **Análise Crítica**: Identificar pontos de melhoria, gargalos ou ineficiências no fluxo de valor mapeado.
+5. **Proposta de Melhorias**: Sugerir melhorias baseadas na análise crítica do fluxo de valor.
+
+#### Processos Técnicos, de Implementação de Software e de Suporte ao Software (Baseado na ISO/IEC 12207):
+
+1. **Definição de Requisitos dos Stakeholders**: Define as necessidades dos stakeholders para criar requisitos que o software deve atender.
+2. **Revisão de Software**: Avalia o software em diferentes estágios de seu desenvolvimento para garantir a conformidade com os requisitos.
+3. **Integração de Software**: Combina unidades de software e componentes para formar um sistema completo.
+4. **Gerenciamento de Configuração de Software**: Controla as versões e configurações do software durante seu desenvolvimento.
+5. **Implementação de Software**: Realiza a construção do software, convertendo requisitos em uma solução operacional.
+6. **Design Arquitetural de Software**: Desenvolve a arquitetura do software, definindo sua estrutura e comportamento.
+7. **Análise de Requisitos de Software**: Analisa e refina os requisitos do software para garantir sua viabilidade e relevância.
+8. **Teste de Qualificação de Software**: Testa o software para garantir que atende aos requisitos especificados.
+9.  **Construção de Software**: Constrói o software, transformando seu design em código executável.
+10. **Implantação de Software**: Envolve a distribuição, instalação e implementação do software no ambiente do usuário.
+
+### Dinâmica do Grupo:
+- Cada grupo receberá as descrições dos processos.
+- Os grupos discutirão e organizarão os processos em uma sequência lógica.
+- Cada grupo apresentará sua proposta de organização dos processos e discutirá suas descobertas.
+
+## Preparação e Análise:
+Os participantes devem se familiarizar com os conceitos da ISO/IEC 12207 e estar preparados para analisar e organizar os processos de desenvolvimento de software.
+
+## Resultado Esperado:
+Ao final da atividade, cada grupo terá organizado os processos da ISO/IEC 12207 em uma ordem que represente eficientemente o ciclo de vida do desenvolvimento de software, identificando oportunidades para otimização e melhoria.
+
+## Atividade Extra: Mapeamento Baseado em História da Entrega de uma Feature
+
+> **Opção para Facilitadores**: Como atividade complementar, os facilitadores podem optar por usar a história detalhada da entrega de uma funcionalidade como base para um exercício prático de Value Stream Mapping.
 
 ### História da Entrega de uma Feature
 Era uma típica manhã de segunda-feira no escritório quando a equipe de desenvolvimento se reuniu para a reunião semanal. Durante a discussão, um dos desenvolvedores mencionou uma ideia que teve no fim de semana: uma nova funcionalidade que permitiria aos usuários criar playlists personalizadas de seus programas favoritos. A equipe ficou animada com a proposta, e rapidamente um esboço da ideia foi criado no quadro branco.
@@ -44,16 +72,3 @@ Com base no feedback do teste beta, a equipe fez os ajustes finais. Isso incluiu
 Finalmente, chegou o grande dia do lançamento. A nova funcionalidade foi implementada para todos os usuários. A equipe de operações monitorou os servidores de perto, garantindo que tudo funcionasse sem problemas. Enquanto isso, a equipe de análise de dados começou a rastrear como a funcionalidade estava sendo usada, coletando dados para futuras melhorias.
 
 Mesmo após o lançamento, a jornada não acabou. A equipe continuou a monitorar o uso, coletar feedback e trabalhar em melhorias. A funcionalidade de playlists personalizadas não era apenas um projeto concluído, mas uma evolução contínua, sempre buscando oferecer a melhor experiência possível ao usuário.
-
-### Dinâmica do Grupo:
-- Cada grupo analisará a história e identificará as etapas principais do processo de entrega.
-- Utilizando as técnicas de Value Stream Mapping, os grupos criarão um mapa visual do processo, destacando as áreas para melhoria.
-- Cada grupo apresentará seu Value Stream Map e discutirá suas descobertas e recomendações.
-
-## Preparação e Análise:
-Os participantes devem se familiarizar com os conceitos de Value Stream Mapping e estar preparados para discutir e analisar o processo em detalhes. A habilidade de identificar eficiências e ineficiências dentro de um processo complexo será crucial.
-
-## Resultado Esperado:
-Ao final da atividade, cada grupo terá um mapa detalhado do fluxo de valor do processo de entrega de uma funcionalidade. Este mapa ajudará a visualizar onde o processo pode ser otimizado, proporcionando uma compreensão mais profunda de como melhorar as práticas de entrega de software na realidade empresarial.
-
-

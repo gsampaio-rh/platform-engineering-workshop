@@ -1,6 +1,6 @@
 # Simulação de Persuasão Executiva para a Adoção de Platform Engineering: Guia da Atividade
 
-> 1. **Desafio Corporativo**: Nesta atividade, os grupos enfrentarão o desafio de persuadir um 'executivo' sobre os benefícios da adoção da Engenharia de Plataforma. Cada grupo será dividido em dois subgrupos: os 'executivos' e os 'apresentadores'.
+> 1. **Desafio**: Nesta atividade, os grupos enfrentarão o desafio de persuadir um 'executivo' sobre os benefícios da adoção da Engenharia de Plataforma. Cada grupo será dividido em dois subgrupos: os 'executivos' e os 'apresentadores'.
 > 
 > 2. **Perfis dos Executivos e Estratégia de Persuasão**: Os 'executivos' representarão um dos quatro perfis - Analítico, Pragmático, Expressivo, Diplomático. Os 'apresentadores' desenvolverão e entregarão um discurso persuasivo adequado ao perfil do 'executivo' que representam.
 > 

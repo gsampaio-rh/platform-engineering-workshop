@@ -1,6 +1,6 @@
 # Adoção de Platform Engineering: Guia da Atividade
 
-> 1. **Desafio Corporativo**: As equipes são desafiadas a implementar a disciplina de Platform Engineering em diferentes squads de uma grande empresa de tecnologia. Cada squad possui características únicas e abordagens de trabalho distintas, representando os quadrantes do Modelo de Valores Conflitantes (CVF) - Clã, Adhocracia, Hierarquia e Mercado.
+> 1. **Desafio**: As equipes são desafiadas a implementar a disciplina de Platform Engineering em diferentes squads de uma grande empresa de tecnologia. Cada squad possui características únicas e abordagens de trabalho distintas, representando os quadrantes do Modelo de Valores Conflitantes (CVF) - Clã, Adhocracia, Hierarquia e Mercado.
 
 > 2. **Perfil dos Squads e Estratégia**: Cada squad - Harmony, Pioneer, Foundation e MarketEdge - tem um perfil detalhado que inclui suas rotinas, estilos de trabalho e elementos que são essenciais para seu funcionamento. Com base nestes perfis, as equipes devem desenvolver estratégias personalizadas de adoção de Platform Engineering, respeitando as particularidades de cada squad.
 
