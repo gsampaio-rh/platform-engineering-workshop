@@ -14,10 +14,6 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 > - Organizar esses processos em uma sequência lógica que represente eficientemente o ciclo de vida do desenvolvimento de software.
 > - Identificar gargalos e oportunidades de melhoria no processo proposto.
 
-![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
-
-*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
-
 ### Passos para a Atividade:
 
 1. **Estudo da ISO/IEC 12207**: Entender a estrutura e os processos descritos na norma.
@@ -49,6 +45,12 @@ Os participantes devem se familiarizar com os conceitos da ISO/IEC 12207 e estar
 
 ## Resultado Esperado:
 Ao final da atividade, cada grupo terá organizado os processos da ISO/IEC 12207 em uma ordem que represente eficientemente o ciclo de vida do desenvolvimento de software, identificando oportunidades para otimização e melhoria.
+
+## Anexos I - ISO/IEC 12207
+
+![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
+
+*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
 
 ## Atividade Extra: Mapeamento Baseado em História da Entrega de uma Feature
 
