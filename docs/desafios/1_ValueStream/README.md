@@ -15,25 +15,11 @@ Os participantes devem usar suas habilidades de análise para organizar os proce
 > - Identificar gargalos e oportunidades de melhoria no processo proposto.
 
 ### Passos para a Atividade:
-
-1. **Estudo da ISO/IEC 12207**: Entender a estrutura e os processos descritos na norma.
-2. **Organização dos Processos**: Colocar os processos em uma ordem que faça sentido para o ciclo de vida do desenvolvimento de software.
-3. **Mapeamento do Fluxo de Valor**: Utilizar os processos organizados para criar um mapa do fluxo de valor.
-4. **Análise Crítica**: Identificar pontos de melhoria, gargalos ou ineficiências no fluxo de valor mapeado.
-5. **Proposta de Melhorias**: Sugerir melhorias baseadas na análise crítica do fluxo de valor.
-
-## Processos Técnicos, de Implementação de Software e de Suporte ao Software (Baseado na ISO/IEC 12207):
-
-1. **Definição de Requisitos dos Stakeholders**: Define as necessidades dos stakeholders para criar requisitos que o software deve atender.
-2. **Revisão de Software**: Avalia o software em diferentes estágios de seu desenvolvimento para garantir a conformidade com os requisitos.
-3. **Integração de Software**: Combina unidades de software e componentes para formar um sistema completo.
-4. **Gerenciamento de Configuração de Software**: Controla as versões e configurações do software durante seu desenvolvimento.
-5. **Implementação de Software**: Realiza a construção do software, convertendo requisitos em uma solução operacional.
-6. **Design Arquitetural de Software**: Desenvolve a arquitetura do software, definindo sua estrutura e comportamento.
-7. **Análise de Requisitos de Software**: Analisa e refina os requisitos do software para garantir sua viabilidade e relevância.
-8. **Teste de Qualificação de Software**: Testa o software para garantir que atende aos requisitos especificados.
-9.  **Construção de Software**: Constrói o software, transformando seu design em código executável.
-10. **Implantação de Software**: Envolve a distribuição, instalação e implementação do software no ambiente do usuário.
+1. **Estudo da ISO/IEC 12207**: Revise o arquivo `ISO_IEC_12207.md` para entender a estrutura e os processos descritos na norma ISO/IEC 12207.
+2. **Organização dos Processos**: Coloque os processos descritos no arquivo `ISO_IEC_12207.md` em uma ordem que faça sentido para o ciclo de vida do desenvolvimento de software.
+3. **Mapeamento do Fluxo de Valor**: Utilize os processos organizados para criar um mapa visual do fluxo de valor, identificando cada etapa do desenvolvimento de software.
+4. **Análise Crítica**: Identifique pontos de melhoria, gargalos ou ineficiências no fluxo de valor mapeado, utilizando o conhecimento adquirido do arquivo `ISO_IEC_12207.md`.
+5. **Proposta de Melhorias**: Baseando-se na análise crítica do fluxo de valor, sugira melhorias que possam otimizar o processo de desenvolvimento de software conforme descrito na ISO/IEC 12207.
 
 ## Dinâmica do Grupo:
 - Cada grupo receberá as descrições dos processos.
