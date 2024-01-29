@@ -16,6 +16,12 @@ Este documento fornece uma visão geral detalhada dos processos técnicos, de im
 
 Cada um desses processos desempenha um papel vital no desenvolvimento eficiente e na entrega de software de alta qualidade. A compreensão desses processos ajudará os participantes a aprimorar suas habilidades e conhecimentos em engenharia de software.
 
+## Anexos I - ISO/IEC 12207
+
+![ISO/IEC 12207 Overview](../../images/ISO-IEC-12207-Overview.png)
+
+*(Fonte: [A Complexity Theory viewpoint on the Software Development Process and Situational Context](https://www.researchgate.net/publication/303413102_A_complexity_theory_viewpoint_on_the_software_development_process_and_situational_context))*
+
 ## Conclusão
 
 Este documento visa fornecer aos participantes uma base sólida para entender e aplicar os processos descritos na ISO/IEC 12207. A familiarização com esses processos é fundamental para qualquer profissional envolvido no ciclo de vida do desenvolvimento de software.
