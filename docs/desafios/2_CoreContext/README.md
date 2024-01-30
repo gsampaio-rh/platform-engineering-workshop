@@ -22,6 +22,15 @@ Durante a atividade, os participantes irão simultaneamente classificar os proce
 - **Crítico**: Processos importantes que, mesmo não sendo diferenciadores (Core), são essenciais para manter a operação contínua e a estabilidade. A falha nestas áreas pode afetar negativamente a satisfação dos desenvolvedores, a comunicação e a eficiência operacional.
 - **Não Crítico**: Processos que, se não executados perfeitamente, têm um impacto limitado na produtividade geral dos desenvolvedores. Estes processos devem ser geridos de forma a maximizar a eficiência sem comprometer os recursos necessários para os processos Core e Críticos.
 
+### Passos para a Atividade:
+
+1. **Revisão de Processos de Desenvolvimento de Software**: Comece por revisar os processos padrão de desenvolvimento de software. Esta revisão proporcionará uma compreensão básica dos processos que serão avaliados e classificados.
+2. **Estudo da Matriz Core/Context e SPACE Framework**: Familiarize-se com a matriz Core/Context de Geoffrey Moore e as dimensões do SPACE Framework. Esta etapa é crucial para entender os critérios de classificação e avaliação que serão aplicados aos processos.
+3. **Avaliação de Impacto no SPACE Framework**: Avalie o impacto de cada processo classificado nas dimensões do SPACE Framework. Considere como cada processo influencia aspectos como satisfação, desempenho, atividade, comunicação, colaboração, eficiência e fluxo.
+4. **Classificação dos Processos**: Utilizando o conhecimento adquirido, classifique os processos de desenvolvimento de software como "Core" ou "Context" e como "Crítico" ou "Não Crítico". Esta classificação será baseada na importância estratégica e na criticidade de cada processo.
+5. **Discussão e Justificação**: Em grupo, discuta as classificações e avaliações realizadas. Justifique as decisões tomadas, explicando como cada processo se encaixa na matriz Core/Context e seu impacto nas dimensões do SPACE Framework.
+6. **Apresentação dos Resultados**: Cada grupo apresentará suas conclusões, destacando as implicações das classificações e avaliações dos processos no contexto do desenvolvimento de software. Compartilhe insights sobre como essas classificações podem influenciar a alocação de recursos e a tomada de decisões estratégicas na organização.
+
 ## Dinâmica do Grupo:
 - Cada grupo analisará e classificará os processos de desenvolvimento de software com base na matriz Core/Context.
 - Posteriormente, os grupos avaliarão o impacto de cada processo nas dimensões do SPACE Framework.
@@ -35,10 +44,7 @@ Para se preparar para esta atividade, os participantes devem revisar os processo
 
 *(Fonte: Ao final da atividade as ações devem se encontrar posicionadas em uma Matriz 2x2.)*
 
-## Resultado Esperado:
-O resultado esperado desta atividade é uma compreensão mais profunda de como os processos de desenvolvimento de software se alinham com os objetivos estratégicos da organização e impactam a produtividade dos desenvolvedores. Os participantes aprenderão a identificar quais processos são vitais para impulsionar a inovação e eficiência, e quais processos, embora necessários, podem não contribuir diretamente para a vantagem competitiva da empresa. Isso permitirá uma alocação de recursos mais eficaz e uma melhor tomada de decisão estratégica.
-
-## O que é o SPACE Framework?
+### O que é o SPACE Framework?
 O SPACE Framework é um conjunto de dimensões usado para compreender a produtividade dos desenvolvedores. As dimensões incluem:
 - **Satisfaction (Satisfação)**: Refere-se ao bem-estar e à satisfação dos desenvolvedores.
 - **Performance (Desempenho)**: A eficiência e eficácia dos desenvolvedores em suas tarefas.
@@ -50,9 +56,12 @@ O SPACE Framework é um conjunto de dimensões usado para compreender a produtiv
 
 *(Fonte: [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124))*
 
-## O que é a Matriz Core/Context?
+### O que é a Matriz Core/Context?
 A matriz "Core/Context" de Geoffrey Moore é um modelo que ajuda as empresas a identificar suas atividades principais que são fundamentais para seu sucesso (Core) e aquelas que, embora necessárias, não oferecem vantagem competitiva direta (Context). Além disso, a matriz distingue entre atividades críticas e não críticas para o negócio.
 
 ![Core-Context Matrix](../../images/core-context.png)
 
 *(Fonte: [Geoffrey Moore-Core and Context](https://www.youtube.com/watch?v=emQ2innvuPo))*
+
+## Resultado Esperado:
+O resultado esperado desta atividade é uma compreensão mais profunda de como os processos de desenvolvimento de software se alinham com os objetivos estratégicos da organização e impactam a produtividade dos desenvolvedores. Os participantes aprenderão a identificar quais processos são vitais para impulsionar a inovação e eficiência, e quais processos, embora necessários, podem não contribuir diretamente para a vantagem competitiva da empresa. Isso permitirá uma alocação de recursos mais eficaz e uma melhor tomada de decisão estratégica.
