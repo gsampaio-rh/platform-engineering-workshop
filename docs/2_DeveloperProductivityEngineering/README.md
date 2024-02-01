@@ -89,7 +89,6 @@ DORA foca em quatro métricas chave para avaliar a performance de equipes de des
 
 *(Fonte: [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878))*
 
-
 ## DPE em Ação: Estudos de Caso e Adoção na Indústria
 
 A Engenharia de Produtividade de Desenvolvedores (DPE) vem ganhando destaque e adoção em diversas organizações líderes de tecnologia. Estes estudos de caso revelam uma tendência crescente na indústria de tecnologia: o foco na habilitação e experiência do desenvolvedor, em vez de apenas medir a saída de produção. Essa abordagem reconhece que a produtividade do desenvolvedor está intrinsecamente ligada à sua satisfação e bem-estar, e que um ambiente de trabalho propício e ferramentas eficientes são fundamentais para promover uma produtividade sustentável.
