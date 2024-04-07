@@ -82,7 +82,7 @@ DORA focuses on four key metrics to assess the performance of software developme
 - **Code Maintainability**: Considers the ease of maintaining and updating existing code.
 - **Tooling**: Evaluates the effectiveness of development tools used.
 
-![DevEx Metrics](../images/devex-table1.jpeg)
+![DevEx Metrics](../images/4/devex-table1.jpeg)
 *Source: [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)*
 
 ## DPE in Action: Industry Adoption and Case Studies
