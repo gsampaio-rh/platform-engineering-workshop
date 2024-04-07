@@ -1,7 +1,25 @@
 # Platform Engineering Workshop
-Este repositório serve como o centro de documentação e recursos para o workshop de Platform Engineering, uma experiência abrangente e interativa destinada a explorar as profundezas e amplitudes da engenharia de plataforma em ambientes de TI modernos. Com um foco prático e aplicado, este workshop guia os participantes através de conceitos essenciais e práticas avançadas de Platform Engineering, destacando como essas estratégias podem ser implementadas para otimizar a entrega de software e melhorar a produtividade do desenvolvedor.
 
-Cada componente do workshop foi cuidadosamente desenhado para não apenas transmitir conhecimento, mas também para incutir habilidades práticas e pensamento crítico, permitindo que os participantes apliquem o que aprenderam em seus próprios contextos de trabalho. Os facilitadores e participantes são encorajados a usar este repositório como um recurso vivo e dinâmico, contribuindo com suas próprias ideias e feedback para enriquecer ainda mais a experiência de aprendizado coletiva.
+This workshop is designed for anyone looking to enhance their skills in product design and the development of internal development platforms, while understanding the critical dynamics of effective team collaboration. Participants will be immersed in activities ranging from deep customer needs discovery to user journey mapping and the development of strategic product roadmaps. Through practical and collaborative techniques such as 'Design the Box', 'Event Storming', and 'User Story Mapping', participants will learn to effectively apply concepts in the design of internal products.
+
+Furthermore, the workshop will incorporate essential elements of Team Topologies, emphasizing the importance of effective team structuring and inter-functional collaboration. Participants will explore how different team configurations can impact product development and solution delivery, enhancing their understanding of how to create teams aligned with business needs and design requirements.
+
+## Objectives
+
+- **Understand Fundamental Concepts**: Grasp the fundamental concepts and the importance of Platform Engineering in modern product and service development.
+- **Trends Overview**: Gain an overview of current trends and how they affect the creation and management of internal platforms.
+- **Deep Customer Needs Discovery**: Learn methods for deep customer needs discovery, including surveys, interviews, and feedback analysis.
+- **User Journey Mapping**: Utilize tools and techniques for user journey mapping, identifying pain points and opportunities for improvement.
+- **Team Topologies Principles**: Understand the principles of Team Topologies for effective team formation, focusing on types of teams, interactions, and responsibilities.
+- **Enhance Inter-functional Collaboration**: Strategize to improve inter-functional collaboration and communication within and between teams.
+- **Practical Team Configurations**: Analyze practical examples of successful team configurations in different organizational contexts.
+- **Strategic Roadmap Development**: Develop strategic roadmaps for internal platforms, aligning product initiatives with business objectives.
+- **Stakeholder Expectation Management**: Techniques for managing stakeholder expectations and communicating progress and changes effectively.
+- **Iterative Product Launch**: Approaches for the iterative launch of products, including MVPs (Minimum Viable Products) and prototyping.
+- **Post-launch Feedback Analysis**: Strategies for collecting and analyzing post-launch feedback, using data to inform future iterations.
+- **Case Study Analysis**: Analyze case studies of companies that have successfully implemented Platform Engineering practices.
+
+This workshop is ideal for participants looking to leverage practical and collaborative techniques to advance in the field of product design and platform engineering, fostering an innovative and efficient development environment.
 
 ## 📁 Estrutura do Repositório
 

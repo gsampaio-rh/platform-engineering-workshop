@@ -1,12 +1,20 @@
-# Bem-vindo ao Workshop de Platform Engineering
+# Welcome to the Platform Engineering Workshop
 
-## 🌟 Introdução ao Workshop
-Bem-vindo ao Workshop de Platform Engineering, uma experiência imersiva projetada para abordar os fundamentos e as práticas avançadas da engenharia de plataforma. Este workshop interativo levará os participantes através de uma jornada de aprendizado, desde conceitos básicos até estratégias complexas de implementação e gerenciamento em ambientes de TI modernos.
+## 🌟 Introduction to the Workshop
 
-## 📚 Visão Geral dos Módulos
-1. **Platform Engineering**: Explore os princípios e práticas essenciais da engenharia de plataforma e seu papel em agilizar a entrega de software
-2. **DeveloperProductivityEngineering**: Aprofunde-se nas estratégias para melhorar a produtividade dos desenvolvedores e eficiência do processo de desenvolvimento
-3. **Comportamento**: Entenda o impacto do comportamento humano na adoção de novas tecnologias e práticas, aplicando modelos como o de Fogg.
+Welcome to the Platform Engineering Workshop, an immersive experience designed to cover the fundamentals and advanced practices of platform engineering. This interactive workshop will guide participants through a learning journey, from basic concepts to complex implementation and management strategies in modern IT environments.
+
+## 📚 Overview of Modules
+
+1. **Why Do We Need a Platform? What Is a Platform?**: Delve into the core concepts of platform engineering, understanding its necessity and foundational principles in the context of today’s digital landscape.
+   
+2. **Platform Landscape & Opportunities**: Explore the evolving landscape of digital platforms, identifying opportunities for innovation and strategic growth through platform-based business models.
+
+3. **Streamlining Organizational Complexity: A Strategic Blueprint**: Learn about managing organizational complexity through strategic team structures, developer experience, and productivity engineering to enhance operational flow and innovation.
+
+4. **Developer Productivity Engineering (DPE): Enhancing the Developer Experience**: Focus on strategies to improve developer productivity and efficiency, examining practices that optimize the developer experience and foster high-quality software development.
+
+Each module is designed to provide comprehensive insights into platform engineering, from theoretical underpinnings to practical applications in enhancing developer productivity, managing complexity, and leveraging platform opportunities for business success. Join us on this journey to become proficient in platform engineering and transform how technology services are delivered and consumed.
 
 ## 💡 Desafios Práticos
 Acompanhando cada módulo, os seguintes desafios práticos são projetados para reforçar e aplicar os conceitos aprendidos:
