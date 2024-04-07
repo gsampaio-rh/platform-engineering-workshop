@@ -33,6 +33,10 @@ The map showcases the life cycle of an entity, be it a product, practice, or pie
 
 This path not only marks the increase in the ubiquity and certainty of a product or service but also signals a shift in focus from supply competition (creating unique offerings) to user competition (creating value from widespread offerings).
 
+> The reason why you build a platform is to enable an ecosystem. A platform is simply those components (ideally expressed through APIs) that your ecosystem exploits.
+> The reason why you build an ecosystem is for componentisation effects and to exploit others through data mining on consumption.
+Source: <https://blog.gardeviance.org/2015/08/on-platforms-and-ecosystems.html>
+
 ## The Law of Modularity
 
 The Law of Modularity dictates that as technologies and practices evolve and become commoditized, they tend to transform into more modular systems. This principle has significant implications for platform design and strategy.
@@ -64,6 +68,10 @@ Aggregation Theory posits that the Internet has fundamentally shifted the balanc
 The transformative role of aggregators in the digital ecosystem complements the fundamental nature of platforms. While aggregators consolidate disparate offerings to simplify user access and improve the overall experience, platforms serve as the foundational infrastructure that underpins these ecosystems. Platforms support the creation and delivery of products and services, providing stable, standardized elements, often accessible via APIs, fostering an environment rich in innovation.
 
 It's the ability of platforms to cultivate a balanced ecosystem that sets them apart—prioritizing user needs, minimizing friction, and ensuring the relevance and accessibility of components. The true differentiation of a platform does not lie in the standalone services it provides but rather in its capacity to facilitate a network of interactions. It is this strategic capability that underscores the role of platforms in propelling innovation, efficiency, and competitive advantage in the digital economy.
+
+> It is no accident that Apple and Microsoft, the two “bicycle of the mind” companies, were founded only a year apart, and for decades had broadly similar business models: sure, Microsoft licensed software, while Apple sold software-differentiated hardware, but both were and are at their core personal computer companies and, by extension, platforms…
+> Google and Facebook, on the other hand, are products of the Internet, and the Internet leads not to platforms but to aggregators. While platforms need 3rd parties to make them useful and build their moat through the creation of ecosystems, aggregators attract end users by virtue of their inherent usefulness and, over time, leave suppliers no choice but to follow the aggregators’ dictates if they wish to reach end users.
+Source: <https://stratechery.com/2018/techs-two-philosophies/>
 
 ## Exploring the Innovate-Leverage-Commoditize (ILC) Model
 

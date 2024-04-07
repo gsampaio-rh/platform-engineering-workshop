@@ -10,7 +10,7 @@ Developer productivity is a constantly evolving field, recently redefined to enc
 
 High-performing organizations that cultivate a generative organizational culture — characterized by high trust and fluid information flow — show a 30% increase in performance. This result translates to higher productivity and job satisfaction, as well as a decrease in burnout. The report concludes that culture is key, suggesting that developer productivity may be a byproduct of developer joy, which is influenced by the developer's experience with their tools and the organization's engineering culture.
 
-The research "Are Happy Workers More Productive? The Mediating Role of Service-Skill Use" investigates the relationship between job happiness and performance, suggesting that positive attitudes, such as engagement and job satisfaction, build resources for future performance. This study found a moderate correlation between job satisfaction and performance, particularly in high-complexity jobs. It argues that the quality of work life, represented by job happiness, determines the quality of the seller-customer relationship, affecting sales success.
+The research `"Are Happy Workers More Productive? The Mediating Role of Service-Skill Use"` investigates the relationship between job happiness and performance, suggesting that positive attitudes, such as engagement and job satisfaction, build resources for future performance. This study found a moderate correlation between job satisfaction and performance, particularly in high-complexity jobs. It argues that the quality of work life, represented by job happiness, determines the quality of the seller-customer relationship, affecting sales success.
 
 In the context of software development, these findings suggest that a more humanized approach focused on developers' well-being can lead to greater productivity and quality of work. Job satisfaction and happiness are not just desirable outcomes in themselves but also crucial factors influencing developers' effectiveness and efficiency. Empowering teams with excellent tools and fostering an incredible engineering culture, as highlighted by industry leaders like Atlassian's CTO, Rajeev Rajan, may be key to unlocking developer productivity.
 
@@ -58,7 +58,7 @@ The SPACE Framework is a set of dimensions used to understand developer producti
 - **Communication and Collaboration**: The effectiveness of communication and collaboration within teams.
 - **Efficiency and Flow**: The ability to work efficiently and in a state of "flow".
 
-![SPACE Framework Metrics](../images/space_framework.jpeg)
+![SPACE Framework Metrics](../images/4/space_framework.jpeg)
 *Source: [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)*
 
 ### DORA Metrics
