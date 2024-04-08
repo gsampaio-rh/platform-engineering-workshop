@@ -21,62 +21,67 @@ Furthermore, the workshop will incorporate essential elements of Team Topologies
 
 This workshop is ideal for participants looking to leverage practical and collaborative techniques to advance in the field of product design and platform engineering, fostering an innovative and efficient development environment.
 
-## 📁 Estrutura do Repositório
+## 📁 Repository Structure
 
-- **`/docs`**: Diretório principal com toda a documentação do workshop.
-  - **`1_PlatformEngineering`**: Documentação relacionada ao módulo de Engenharia de Plataforma.
-  - **`2_DeveloperProductivityEngineering`**: Documentação sobre Engenharia de Produtividade do Desenvolvedor.
-  - **`3_Comportamento`**: Materiais sobre comportamento organizacional e mudança.
-  - **`/desafios`**: Detalhes sobre os desafios específicos enfrentados durante o workshop.
-  - **`/images`**: Recursos visuais para complementar a documentação e desafios.
-  - **`_sidebar.md`**: Barra lateral de navegação para a documentação.
-  - **`index.html`**: Arquivo HTML para visualização da documentação via Docsify.
-  - **`README.md`**: Informações gerais e orientações para cada seção.
+- **`/docs`**: The primary directory containing all documentation for the workshop.
+  - **`1_ThePlatform`**: Documentation related to the foundational concepts of platforms.
+  - **`2_PlatformOpportunities`**: Insights into the opportunities platforms provide for business and development.
+  - **`3_TeamTopologies`**: Materials on organizing team structures for optimal collaboration and efficiency.
+  - **`4_DeveloperProductivityEngineering`**: Documentation on practices and tools to enhance developer productivity.
+  - **`5_PlatformTeam`**: Guidelines for assembling and managing an effective platform team.
+  - **`6_NetworkEffects`**: Exploration of network effects and their significance in platform dynamics.
+  - **`7_BehaviorDesign`**: Information on influencing and designing user behavior within platforms.
+  - **`/images`**: Visual resources to supplement the documentation.
+  - **`README.md`**: General information and guidance for navigating the documentation.
 
-- **`/changelogs`**: Registros de alterações feitas no projeto, incluindo backlog e notas de lançamento.
+- **`/changelogs`**: Logs detailing changes made to the project, including backlogs and release notes.
 
-Os módulos do workshop Platform Engineering são criados usando o **Docsify**. Escreva a documentação em Markdown e use o CLI do Docsify para servi-los. Armazene a documentação de cada módulo no diretório `docs/<numero-do-modulo>`.
+The Platform Engineering workshop modules are designed using **Docsify**. Documentations are written in Markdown and served using the Docsify CLI. Store the documentation for each module in the `docs/<module_number>` directory.
 
-## 📘 O que é o Docsify?
-Docsify é uma ferramenta leve para gerar sites de documentação diretamente de arquivos markdown. Diferentemente de alguns outros geradores de sites estáticos, o Docsify não requer que você compile o markdown em HTML com antecedência. Em vez disso, ele gera dinamicamente o conteúdo do site quando a página é carregada, tornando-o bastante ágil. Com uma variedade de plugins e temas disponíveis, o Docsify oferece uma maneira flexível e fácil de criar documentação interativa e amigável.
+## 📘 What is Docsify?
 
-### 🔍 Pré-requisitos:
-1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado. Ele virá com o npm (gerenciador de pacotes do node) que é usado para instalar o Docsify.
+Docsify is a lightweight tool designed for creating beautiful documentation websites directly from Markdown files. Unlike some static site generators, Docsify doesn't require the pre-compilation of your Markdown into HTML. Instead, it dynamically renders your site's content on the fly as the page loads, offering speed and agility in documentation delivery. With its support for a wide range of plugins and themes, Docsify provides a flexible and straightforward approach to crafting interactive and user-friendly documentation.
 
-### 1. Instale o Docsify CLI:
-Se você ainda não instalou o Docsify CLI, pode fazê-lo usando o npm:
+### 🔍 Prerequisites
 
-```bash
-npm install -g docsify-cli
-```
+1. Ensure [Node.js](https://nodejs.org/) is installed on your system, as it comes with npm (Node Package Manager), which is essential for installing Docsify.
 
-### 2. Inicialize e Sirva os Documentos:
-Sirva os documentos:
+### Installing Docsify CLI
 
-```bash
-docsify serve docs
-```
+1. To install the Docsify CLI, if you haven't already, use npm with the following command:
 
-Isso iniciará um servidor local, geralmente em http://localhost:3000. Abra este link no seu navegador para ver sua documentação.
+    ```bash
+    npm install -g docsify-cli
+    ```
 
-### 3. Acessando a Documentação ao Vivo:
-Depois de iniciar o servidor Docsify usando o comando acima, você pode acessar sua documentação ao vivo navegando para a URL local fornecida (normalmente http://localhost:3000).
+2. To serve your documentation, execute:
 
-#### 🛠️ Dicas:
+    ```bash
+    docsify serve docs
+    ```
 
-- Sempre que fizer alterações nos arquivos de documentação, simplesmente atualize o navegador para ver o conteúdo atualizado.
-- Você pode personalizar a aparência e funcionalidade do seu site Docsify editando o arquivo index.html na raiz do seu diretório de documentação. O Docsify oferece uma infinidade de opções para melhorar e personalizar sua experiência de documentação.
+    This command launches a local server, typically accessible at <http://localhost:3000>. Visit this URL in your web browser to view your documentation live.
 
-#### 📜 Configurações e Personalizações:
-Se você precisar de configurações específicas, personalizações ou quiser adicionar plugins, temas, etc., pode fazê-lo editando o arquivo index.html na raiz do seu diretório de documentação.
+3. Accessing Your Live Documentation
 
-🧠 Lembre-se, o Docsify carrega o conteúdo dinamicamente, então não há necessidade de recompilar ou reconstruir toda vez que você fizer alterações. Uma simples atualização do navegador resolverá!
+**With the Docsify server running as instructed above, your live documentation is available by navigating to the provided local URL (usually <http://localhost:3000>).**
 
+### 🛠️ Tips
 
-## 🤝 Contribuindo
+Refresh your browser to view updated content anytime you make changes to the documentation files.
 
-Se você deseja contribuir para esta documentação, sinta-se à vontade para fazer um fork, fazer suas alterações e enviar um pull request.
+Customize the look and functionality of your Docsify site by modifying the index.html file located at the root of your documentation directory. Docsify offers numerous customization options to enhance your documentation experience.
 
-## 📬 Contato
+### 📜 Configurations and Customizations:
 
-Para quaisquer perguntas ou feedback, entre em contato com Gabriel Sampaio em gsampaio@redhat.com.
+For specific settings, customizations, or to incorporate plugins, themes, etc., you can do so by editing the index.html file at the root of your documentation directory.
+
+🧠 Remember, Docsify dynamically loads content, eliminating the need for recompilation or rebuilding with each change. A simple browser refresh is all it takes!
+
+### 🤝 Contributing
+
+If you're interested in contributing to this documentation, feel free to fork the repository, make your changes, and submit a pull request.
+
+### 📬 Contact
+
+For questions or feedback, please reach out to Gabriel Sampaio at <gsampaio@redhat.com>.
