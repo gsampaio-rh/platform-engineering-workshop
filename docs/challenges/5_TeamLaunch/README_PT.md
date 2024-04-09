@@ -18,6 +18,8 @@ O desafio é projetar um plano de lançamento para uma Equipe de Plataforma, apr
 
 ## Estratégias para o Plano de Lançamento da Equipe de Plataforma
 
+![Estratégias de Lançamento](../../images/challenges/launch/platform_launch.png)
+
 1. **Estratégia Siga o Coelho (Follow the Rabbit Strategy)**:
    - **Descrição**: Demonstre o potencial da sua plataforma através de um projeto piloto ou demonstração bem-sucedida.
    - **Dica**: Lance um projeto de impacto na plataforma que resolva um problema significativo para um grupo específico de usuários.
@@ -57,20 +59,15 @@ Utilize estas estratégias como um guia para criar um plano robusto de lançamen
 - Selecione uma ou mais estratégias da lista acima que melhor se adequem às necessidades da sua organização e aos desafios específicos do lançamento de uma Equipe de Plataforma.
 - Desenvolva um plano abrangente detalhando como você implementaria essa(s) estratégia(s) para lançar e fazer crescer seu ecossistema de plataforma com sucesso.
 
-## Instruções
+## Instruções para a Atividade de Lançamento
 
-1. **Seleção de Estratégia**: Em equipe, revise a lista de estratégias e decida qual(ais) se alinha(m) mais estreitamente com os objetivos da sua plataforma e os recursos disponíveis para você.
+1. **Seleção de Estratégia em Segredo**: Cada grupo, de maneira confidencial, escolhe uma das estratégias de lançamento. Mantenha a escolha em segredo até a apresentação.
 
-2. **Desenvolvimento do Plano**: Para a estratégia(s) selecionada(s), esboce um plano detalhado que inclua:
-   - **Público-Alvo**: Defina os usuários primários (produtores e consumidores) que sua plataforma servirá.
-   - **Proposta de Valor**: Articule claramente o valor que sua plataforma oferece para ambos os lados do mercado.
-   - **Etapas de Implementação**: Liste as etapas-chave necessárias para implementar sua estratégia escolhida, incluindo quaisquer ofertas iniciais, parcerias ou eventos para iniciar o lançamento da plataforma.
-   - **Recursos Necessários**: Identifique os recursos (financeiros, tecnológicos, humanos, etc.) necessários para executar o plano.
-   - **Métricas de Sucesso**: Defina como você medirá o sucesso da sua estratégia de lançamento no curto e longo prazo.
+2. **Preparação da Apresentação**: Os grupos preparam a apresentação de suas estratégias, utilizando quadros, post-its e outros materiais para criar um cenário visual que descreva como pretendem lançar a plataforma baseando-se na estratégia selecionada.
 
-3. **Discussão**: Compartilhe seu plano de lançamento com o grupo. Discuta os pontos fortes, desafios potenciais e como o plano se alinha com os objetivos mais amplos da sua organização.
+3. **Apresentação dos Grupos**: Cada grupo apresenta sua estratégia, revelando como planejam atrair produtores e consumidores e destacar a proposta de valor única da plataforma.
 
-4. **Feedback e Iteração**: Incorpore o feedback da discussão em seu plano, refinando-o para melhor atender às necessidades da sua plataforma e de seus usuários.
+4. **Revelação da Estratégia Selecionada**: Após as apresentações, cada grupo revela qual estratégia foi escolhida e discute o raciocínio por trás de sua seleção.
 
 ## Resultado Esperado
 
