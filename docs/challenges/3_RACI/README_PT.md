@@ -29,6 +29,8 @@ Sua tarefa é preencher uma Matriz RACI para várias atividades relacionadas à 
      - A necessidade de clareza na responsabilidade para evitar sobreposições e garantir a conclusão da tarefa.
      - Como papéis consultados e informados podem fomentar um ambiente colaborativo sem diluir responsabilidade.
 
+![Matriz RACI](../../images/challenges/raci/raci.png)
+
 ### RACI Matrix Template
 
 The RACI Matrix outlines responsibilities across various platform engineering activities. Key teams involved include:
@@ -40,7 +42,7 @@ The RACI Matrix outlines responsibilities across various platform engineering ac
 
 | Atividade                               | SAT | ET | CST | PT |
 |-----------------------------------------|-----|-----|-----|----|
-| Desenvolvimento de Recursos             |     |     |     |    |
+| Desenvolvimento             |     |     |     |    |
 | Correção de Bugs                        |     |     |     |    |
 | Processo de Revisão de Código           |     |     |     |    |
 | Manutenção de Infraestrutura            |     |     |     |    |
