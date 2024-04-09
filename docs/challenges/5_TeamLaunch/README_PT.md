@@ -81,4 +81,3 @@ Utilize estas estratégias como um guia para criar um plano robusto de lançamen
 
 - Um plano de lançamento estratégico personalizado para alavancar as estratégias escolhidas para superar o problema "chicken-or-egg" e garantir o lançamento bem-sucedido de uma Equipe de Plataforma.
 - Uma compreensão clara das etapas, recursos e métricas críticos para o crescimento inicial e contínuo da plataforma.
-
