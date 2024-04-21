@@ -35,13 +35,35 @@ Você tem a tarefa de desenvolver um Canvas de Engenharia de Plataforma para uma
 
 ## Instruções para a Atividade com o Canvas de Engenharia de Plataforma
 
-Os participantes receberão o Canvas de Engenharia de Plataforma com alguns setores pré-preenchidos. 
+![Canvas da Plataforma](../../images/challenges/canvas/platform-canvas-plat-eng-atividade.png)
 
-![Canvas da Plataforma](../../images/challenges/canvas/platform-canvas-plat-eng-pt.png)
+**Passo 1:** Cada grupo de participantes deve identificar e listar pelo menos dois **Estímulos** que possam impactar a dinâmica da plataforma. Considerem aspectos como:
+
+**Passo 2:** Cada grupo deve responder às seguintes perguntas sobre sua seção específica do canvas:
+
+- **Grupo (A) - Proposta de Valor (Produtores):**
+  - *Quais são os principais benefícios e incentivos que a plataforma oferece aos produtores?*
+    - Como a plataforma pode facilitar a criação de plugins e extensões por parte dos produtores?
+    - De que forma a plataforma suporta a observabilidade e o monitoramento em tempo real para os produtores, contribuindo para a melhoria contínua?
+    - Quais são as principais ferramentas e recursos que a plataforma oferece para automatizar e simplificar os processos de desenvolvimento e deployment?
+
+- **Grupo (B) - Interação e Facilitação:**
+  - *Como a plataforma facilita a interação entre usuários e produtores?*
+    - Considerando a arquitetura de microserviços, como a plataforma promove a descoberta e a integração de serviços de forma eficiente?
+    - Como a plataforma gerencia e facilita o acesso às APIs, garantindo uma experiência consistente e segura para todos os usuários?
+    - Que tipos de suporte e recursos educacionais são oferecidos para capacitar produtores e consumidores a maximizar o uso da plataforma?
+
+- **Grupo (C) - Proposta de Valor (Consumidores):**
+  - *Quais vantagens a plataforma oferece aos consumidores?*
+    - Quais são as principais funcionalidades da plataforma que melhoram a produtividade e a colaboração entre diferentes equipes de desenvolvimento?
+    - Como a plataforma assegura a customização e flexibilidade para se adaptar às necessidades específicas dos consumidores?
+    - De que maneira a plataforma ajuda a reduzir a redundância e a complexidade, facilitando a escalabilidade e manutenção dos projetos desenvolvidos?
+
+Essas perguntas são projetadas para incentivar uma reflexão profunda sobre como uma Internal Development Platform pode servir tanto aos produtores quanto aos consumidores dentro de um ambiente corporativo dinâmico e altamente tecnológico.
 
 ### Seções Pré-preenchidas para Referência
 
-#### Estímulos
+**Estímulos:**
 
 - Novas tecnologias emergentes e frameworks que podem ser incorporados para melhorar a plataforma;
 - Comentários, críticas e sugestões dos usuários internos que direcionam melhorias e novos recursos;
@@ -49,37 +71,25 @@ Os participantes receberão o Canvas de Engenharia de Plataforma com alguns seto
 - Direcionamentos estratégicos que requerem o alinhamento das ferramentas e processos da plataforma;
 - Pressões competitivas e tendências do mercado que influenciam a inovação e a manutenção da plataforma.
 
-#### Segmentos (Produtores)
+**Produtores:**
 
-- Infraestrutura, Suporte (Ops);
-- Arquitetura;
-- Segurança.
+Os produtores são os indivíduos ou equipes responsáveis por construir, manter e aprimorar a plataforma. Eles criam as funcionalidades e serviços essenciais que a plataforma oferece. Aqui estão alguns exemplos típicos de Produtores para uma Plataforma de Desenvolvimento Interna:
 
-#### Segmentos (Consumidores)
+1. **Equipe da Plataforma:** Principalmente responsável pelo desenvolvimento e gestão operacional da plataforma. Garante que a plataforma seja escalável, confiável e atenda às necessidades técnicas dos usuários.
+2. **Infraestrutura e Suporte (Ops):** Equipes que gerenciam as infraestruturas de hardware e software subjacentes, garantindo alta disponibilidade e desempenho otimizado da plataforma.
+3. **Equipe de Arquitetura:** Responsável pelo design da arquitetura da plataforma, garantindo que ela suporte as necessidades atuais e futuras de forma eficiente.
+4. **Equipe de Segurança:** Assegura que a plataforma adere aos protocolos de segurança e requisitos de conformidade, protegendo a plataforma e seus usuários contra vulnerabilidades.
+5. **Empresas Terceiras:** Companhias ou indivíduos que fornecem serviços ou componentes externos que se integram à plataforma, potencializando suas capacidades.
+6. **Comunidades Open Source:** Contribuidores de comunidades de código aberto que podem fornecer código essencial, ferramentas ou insights que são incorporados à plataforma.
+7. **Chapters & Guilds:** Grupos internos focados em áreas específicas de expertise (como gerenciamento de banco de dados, experiência do usuário, etc.) e contribuem padronizando práticas e ferramentas em toda a plataforma.
 
-- Equipes de Desenvolvimento de Produtos;
-- Parceiros Externos e Desenvolvedores de Terceiros.
+**Consumidores:**
 
-### Atividade
+Os consumidores são os usuários da plataforma. Eles utilizam as ferramentas, recursos e serviços fornecidos pela plataforma para desenvolver, implantar e gerenciar seus próprios aplicativos ou serviços. Aqui estão alguns exemplos típicos de Consumidores:
 
-Cada grupo de participantes terá tarefas específicas para complementar as informações do canvas da seguinte forma:
+1. **Equipes de Desenvolvimento de Produtos:** Principais consumidores que usam a plataforma para construir e manter seus produtos ou serviços. Dependem da plataforma por suas características robustas e capacidades de integração sem costura.
+2. **Parceiros Externos e Desenvolvedores de Terceiros:** Incluem empresas externas ou desenvolvedores independentes que utilizam a plataforma para desenvolver suas próprias soluções ou para integrar seus serviços aos seus.
+3. **Unidades de Negócios Internas:** Embora não estejam diretamente envolvidas no desenvolvimento de produtos, essas unidades podem depender da plataforma para implantar ferramentas internas, realizar análises ou gerenciar dados empresariais.
+4. **Analistas de Dados e Cientistas de Dados:** Usam a plataforma para acessar, processar e analisar grandes volumes de dados para insights de negócios, previsões e modelagem de dados.
 
-- **Grupo (A)** - Deve preencher a **Proposta de Valor (Produtores)**:
-  - Pensem nos benefícios e incentivos que a plataforma oferece aos produtores, como:
-    - Oportunidades de monetização;
-    - Ferramentas de desenvolvimento avançado;
-    - Acesso a uma base de usuários ampla e diversificada;
-
-- **Grupo (B)** - Deve preencher **Interação** e **Facilitação**:
-  - Considerem os métodos e processos que a plataforma usa para facilitar a interação entre usuários e produtores, tais como:
-    - Sistemas de recomendação personalizados;
-    - Interfaces de programação de aplicativos (APIs) intuitivas;
-    - Suporte técnico e atendimento ao cliente;
-
-- **Grupo (C)** - Deve preencher a **Proposta de Valor (Consumidores)**:
-  - Destaquem as vantagens para os usuários que a plataforma proporciona, incluindo:
-    - Experiência do usuário simplificada;
-    - Integração com outras ferramentas e serviços;
-    - Ofertas personalizadas baseadas no uso;
-
-Todos os grupos devem considerar e listar pelo menos um **Estímulo** que possa impactar a dinâmica da plataforma, como novas tendências de mercado ou mudanças regulatórias.
+![Canvas da Plataforma](../../images/challenges/canvas/platform-canvas-plat-eng-pt.png)
